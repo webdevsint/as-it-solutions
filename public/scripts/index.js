@@ -24,7 +24,7 @@ setInterval(() => {
   if (window.innerWidth <= 900) {
     plusDivs(1);
   }
-}, 6000);
+}, 3000);
 
 window.addEventListener("resize", () => {
   if (window.innerWidth <= 900) {
